@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UAS AKB</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="deskripsi_gambar">Deskripsi</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="nim2">10118375</string>
+    <string name="nama2">Teguh Ary Erdiansyah</string>
+    <string name="kelas2">IF - 9</string>
+    <string name="maps">Maps</string>
+    <string name="tempat_wisata">Tempat Wisata</string>
+</resources>
