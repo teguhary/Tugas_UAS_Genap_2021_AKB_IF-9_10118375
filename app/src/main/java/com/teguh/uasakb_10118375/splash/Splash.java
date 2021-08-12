@@ -1,4 +1,4 @@
-package com.example.uasakb_10118375.splash;
+package com.teguh.uasakb_10118375.splash;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,8 +7,8 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
 
-import com.example.uasakb_10118375.R;
-import com.example.uasakb_10118375.viewPager.ViewPager;
+import com.teguh.uasakb_10118375.R;
+import com.teguh.uasakb_10118375.viewPager.ViewPager;
 
 /*
     Tanggal Pengerjaan  : 8 Agustus 2021

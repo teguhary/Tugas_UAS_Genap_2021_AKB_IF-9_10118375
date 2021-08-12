@@ -1,4 +1,4 @@
-package com.example.uasakb_10118375.viewPager;
+package com.teguh.uasakb_10118375.viewPager;
 
 /*
     Tanggal Pengerjaan  : 8 Agustus 2021

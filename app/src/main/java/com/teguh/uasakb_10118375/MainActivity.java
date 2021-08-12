@@ -1,4 +1,4 @@
-package com.example.uasakb_10118375;
+package com.teguh.uasakb_10118375;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -6,9 +6,9 @@ import androidx.fragment.app.Fragment;
 import android.os.Bundle;
 import android.view.MenuItem;
 
-import com.example.uasakb_10118375.menu.HomeFragment;
-import com.example.uasakb_10118375.menu.MapsFragment;
-import com.example.uasakb_10118375.menu.PersonFragment;
+import com.teguh.uasakb_10118375.menu.HomeFragment;
+import com.teguh.uasakb_10118375.menu.MapsFragment;
+import com.teguh.uasakb_10118375.menu.PersonFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 /*

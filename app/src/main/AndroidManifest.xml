@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.uasakb_10118375">
+    package="com.teguh.uasakb_10118375">
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
@@ -20,19 +20,19 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="${KEY}"/>
 
-        <activity android:name="com.example.uasakb_10118375.splash.Splash">
+        <activity android:name="com.teguh.uasakb_10118375.splash.Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.uasakb_10118375.viewPager.ViewPager"/>
-        <activity android:name="com.example.uasakb_10118375.MainActivity" />
-        <activity android:name="com.example.uasakb_10118375.menu.PersonFragment"
+        <activity android:name="com.teguh.uasakb_10118375.viewPager.ViewPager"/>
+        <activity android:name="com.teguh.uasakb_10118375.MainActivity" />
+        <activity android:name="com.teguh.uasakb_10118375.menu.PersonFragment"
             tools:ignore="Instantiatable" />
-        <activity android:name="com.example.uasakb_10118375.menu.HomeFragment" />
-        <activity android:name="com.example.uasakb_10118375.menu.MapsFragment" />
+        <activity android:name="com.teguh.uasakb_10118375.menu.HomeFragment" />
+        <activity android:name="com.teguh.uasakb_10118375.menu.MapsFragment" />
     </application>
 
 </manifest>

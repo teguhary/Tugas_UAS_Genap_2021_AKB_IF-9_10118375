@@ -1,4 +1,4 @@
-package com.example.uasakb_10118375.viewPager;
+package com.teguh.uasakb_10118375.viewPager;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
@@ -11,8 +11,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.example.uasakb_10118375.MainActivity;
-import com.example.uasakb_10118375.R;
+import com.teguh.uasakb_10118375.MainActivity;
+import com.teguh.uasakb_10118375.R;
 import com.google.android.material.button.MaterialButton;
 
 import java.util.ArrayList;

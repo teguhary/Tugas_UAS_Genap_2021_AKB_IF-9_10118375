@@ -11,7 +11,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.uasakb_10118375"
+        applicationId "com.teguh.uasakb_10118375"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1

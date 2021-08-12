@@ -1,4 +1,4 @@
-package com.example.uasakb_10118375.menu;
+package com.teguh.uasakb_10118375.menu;
 
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.uasakb_10118375.R;
+import com.teguh.uasakb_10118375.R;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.firebase.database.FirebaseDatabase;
 

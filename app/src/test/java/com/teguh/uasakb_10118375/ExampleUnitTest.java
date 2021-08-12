@@ -1,4 +1,4 @@
-package com.example.uasakb_10118375;
+package com.teguh.uasakb_10118375;
 
 import org.junit.Test;
 

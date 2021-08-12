@@ -1,4 +1,4 @@
-package com.example.uasakb_10118375.menu;
+package com.teguh.uasakb_10118375.menu;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.uasakb_10118375.R;
+import com.teguh.uasakb_10118375.R;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.android.material.imageview.ShapeableImageView;

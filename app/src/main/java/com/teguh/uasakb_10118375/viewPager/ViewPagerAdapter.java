@@ -1,4 +1,4 @@
-package com.example.uasakb_10118375.viewPager;
+package com.teguh.uasakb_10118375.viewPager;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.uasakb_10118375.R;
+import com.teguh.uasakb_10118375.R;
 
 import java.util.List;
 
