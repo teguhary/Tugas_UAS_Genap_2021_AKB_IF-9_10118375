@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.uasakb_10118375">
 
     <uses-permission android:name="android.permission.INTERNET"/>
@@ -28,7 +29,8 @@
         </activity>
         <activity android:name="com.example.uasakb_10118375.viewPager.ViewPager"/>
         <activity android:name="com.example.uasakb_10118375.MainActivity" />
-        <activity android:name="com.example.uasakb_10118375.menu.PersonFragment" />
+        <activity android:name="com.example.uasakb_10118375.menu.PersonFragment"
+            tools:ignore="Instantiatable" />
         <activity android:name="com.example.uasakb_10118375.menu.HomeFragment" />
         <activity android:name="com.example.uasakb_10118375.menu.MapsFragment" />
     </application>
