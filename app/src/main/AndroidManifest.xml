@@ -10,9 +10,9 @@
     <application
         android:allowBackup="true"
         android:hardwareAccelerated="false"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_icon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/ic_icon"
         android:supportsRtl="true"
         android:theme="@style/Theme.UASAKB">
 
@@ -31,8 +31,10 @@
         <activity android:name="com.teguh.uasakb_10118375.MainActivity" />
         <activity android:name="com.teguh.uasakb_10118375.menu.PersonFragment"
             tools:ignore="Instantiatable" />
-        <activity android:name="com.teguh.uasakb_10118375.menu.HomeFragment" />
-        <activity android:name="com.teguh.uasakb_10118375.menu.MapsFragment" />
+        <activity android:name="com.teguh.uasakb_10118375.menu.HomeFragment"
+            tools:ignore="Instantiatable" />
+        <activity android:name="com.teguh.uasakb_10118375.menu.MapsFragment"
+            tools:ignore="Instantiatable" />
     </application>
 
 </manifest>
